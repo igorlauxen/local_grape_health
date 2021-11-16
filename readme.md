@@ -6,3 +6,7 @@
 1. Pip version 21.3.1
 1. `pip3 install keras`
 1. `pip3 install tensorflow --user`
+
+## Idea
+
+Usar [Functioning of CNN with custom dataset](https://medium.com/analytics-vidhya/cnn-with-custom-dataset-8cdd153f5c9e) como base
